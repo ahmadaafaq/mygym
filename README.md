@@ -1,2 +1,2 @@
 # mygym
-Application for Gym Attendance
+React Js Application for Gym Attendance.
